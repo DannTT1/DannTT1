@@ -15,7 +15,7 @@
   Sou um desenvolvedor em formação, focado em construir soluções práticas e aprender continuamente. Tenho interesse especial em desenvolvimento de aplicações web e estou buscando uma <strong>oportunidade de estágio</strong> para aplicar meus conhecimentos em projetos reais.
 
 - 🌱 Atualmente estou focado em aprender <strong>Spring Boot, React e Docker.</strong>
-- 🔭 Estou trabalhando em uma <strong>API de gerenciamento para [TEMA DO SEU PROJETO] usando Spring Boot.</strong>
+- 🔭 Estou trabalhando em um CRUD <strong> com o gerenciamento de um API em um site e-commerce  usando o framework Spring Boot.</strong>
 - 📫 Você pode me contatar pelo e-mail: <strong>matheus.cardoso97@outlook.com</strong>
 </p>
 
@@ -29,11 +29,3 @@
   </a>
 </p>
 
----
-
-### 📊 Minhas Estatísticas no GitHub
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danntt1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danntt1&layout=compact&langs_count=7&theme=dracula"/>
-</p>
