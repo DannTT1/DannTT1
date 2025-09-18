@@ -1,16 +1,39 @@
-## Hi there 👋
+<h1 align="center">Olá! 👋 Eu sou o Matheus C Rezende</h1>
+<h3 align="center">Um estudante de Análise e Desenvolvimento de Sistemas explorando o maravilhoso e misterioso mundo Java e da tecnologia</h3>
 
-<!--
-**DannTT1/DannTT1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+<p align="left">
+  <a href="https://www.linkedin.com/in/matheus-cardoso-273a96104/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="meu-linkedin" /></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Sobre Mim
+
+<p align="left">
+  Sou um desenvolvedor em formação, focado em construir soluções práticas e aprender continuamente. Tenho interesse especial em desenvolvimento de aplicações web e estou buscando uma <strong>oportunidade de estágio</strong> para aplicar meus conhecimentos em projetos reais.
+
+- 🌱 Atualmente estou focado em aprender <strong>Spring Boot, React e Docker.</strong>
+- 🔭 Estou trabalhando em uma <strong>API de gerenciamento para [TEMA DO SEU PROJETO] usando Spring Boot.</strong>
+- 📫 Você pode me contatar pelo e-mail: <strong>matheus.cardoso97@outlook.com</strong>
+</p>
+
+---
+
+### 💻 Minhas Ferramentas e Tecnologias
+
+<p align="left"> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,spring,javascript,react,nodejs,html,css,mysql,mongodb,docker,git" />
+  </a>
+</p>
+
+---
+
+### 📊 Minhas Estatísticas no GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danntt1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danntt1&layout=compact&langs_count=7&theme=dracula"/>
+</p>
