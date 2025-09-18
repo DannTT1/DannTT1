@@ -1,5 +1,5 @@
 <h1 align="center">Olá! 👋 Eu sou o Matheus C Rezende</h1>
-<h3 align="center">Um estudante de Análise e Desenvolvimento de Sistemas explorando o maravilhoso e misterioso mundo Java e da tecnologia</h3>
+<h3 align="center">Um estudante de Análise e Desenvolvimento de Sistemas explorando o maravilhoso e misterioso mundo Java e o da tecnologia</h3>
 
 <br>
 
