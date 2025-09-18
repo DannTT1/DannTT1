@@ -14,7 +14,7 @@
 <p align="left">
   Sou um desenvolvedor em formação, focado em construir soluções práticas e aprender continuamente. Tenho interesse especial em desenvolvimento de aplicações web e estou buscando uma <strong>oportunidade de estágio</strong> para aplicar meus conhecimentos em projetos reais.
 
-- 🌱 Atualmente estou focado em aprender <strong>Spring Boot, React e Docker.</strong>
+- 🌱 Atualmente estou focado em aprender <strong>Spring Boot, React e Java.</strong>
 - 🔭 Estou trabalhando em um CRUD <strong> com o gerenciamento de um API em um site e-commerce  usando o framework Spring Boot.</strong>
 - 📫 Você pode me contatar pelo e-mail: <strong>matheus.cardoso97@outlook.com</strong>
 </p>
