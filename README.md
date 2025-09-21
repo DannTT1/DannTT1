@@ -2,7 +2,7 @@
 <h3 align="center">Um estudante de Análise e Desenvolvimento de Sistemas desbravando os Reinos Intermédios da tecnologia e do universo Java.</h3>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/DFr_a-s83RIAAAAC/elden-ring-grace.gif" alt="Site of Grace - Elden Ring" width="600"/>
+  <img src="https://media1.tenor.com/m/CgDC_2tMOQUAAAAC/malenia-elden-ring.gif" alt="Malenia, Blade of Miquella - Elden Ring" width="600"/>
 </p>
 
 ---
@@ -33,8 +33,8 @@
 
 <p align="center">
   <a href="https://github.com/DannTT1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USERNAME-AQUI&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USERNAME-AQUI&layout=compact&langs_count=7&theme=tokyonight"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DannTT1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DannTT1&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </p>
 
