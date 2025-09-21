@@ -1,9 +1,7 @@
 <h1 align="center">Olá! 👋 Eu sou o Matheus C Rezende</h1>
 <h3 align="center">Um estudante de Análise e Desenvolvimento de Sistemas desbravando os Reinos Intermédios da tecnologia e do universo Java.</h3>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/81/29/43/8129437a4d57c06411f203be44a7b738.gif" alt="Malenia, Blade of Miquella - Elden Ring" width="600"/>
-</p>
+![malenia](https://github.com/user-attachments/assets/56359af7-7121-436c-9447-7e9864d88433)
 
 ### Sobre Mim
 
@@ -18,6 +16,7 @@
 ---
 
 ### ⚔️ Minhas Ferramentas e Tecnologias
+
 
 <p align="left"> 
   <a href="https://skillicons.dev">
@@ -42,6 +41,6 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/matheus-cardoso-273a96104/" target="_blank">
-    <img src="https://img-shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
