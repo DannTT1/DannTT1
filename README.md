@@ -2,7 +2,7 @@
 <h3 align="center">Um estudante de Análise e Desenvolvimento de Sistemas desbravando os Reinos Intermédios da tecnologia e do universo Java.</h3>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/pW281eN4zQ1Q42gGsW/giphy.gif" alt="Malenia, Blade of Miquella - Elden Ring" width="600"/>
+  <img src="https://github.com/DannTT1/DannTT1/blob/main/malenia.gif?raw=true" alt="Malenia, Blade of Miquella - Elden Ring" width="600"/>
 </p>
 ---
 
