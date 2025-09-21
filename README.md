@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://github.com/DannTT1/DannTT1/blob/main/malenia.gif?raw=true" alt="Malenia, Blade of Miquella - Elden Ring" width="600"/>
 </p>
----
 
 ### Sobre Mim
 
@@ -42,7 +41,7 @@
 ### 🔗 Conecte-se Comigo
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/matheus-cardoso-273a96104/" target="blank">
-    <img align="center" src="https://img-shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="meu-linkedin" />
+  <a href="https://www.linkedin.com/in/matheus-cardoso-273a96104/" target="_blank">
+    <img src="https://img-shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
