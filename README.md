@@ -1,7 +1,8 @@
 <h1 align="center">Olá! 👋 Eu sou o Matheus C Rezende</h1>
 <h3 align="center">Um estudante de Análise e Desenvolvimento de Sistemas desbravando os Reinos Intermédios da tecnologia e do universo Java.</h3>
 
-![malenia](https://github.com/user-attachments/assets/56359af7-7121-436c-9447-7e9864d88433)
+
+![malenia2](https://github.com/user-attachments/assets/4404ca01-fda9-4e35-933c-2b56c75409dc)
 
 ### Sobre Mim
 
