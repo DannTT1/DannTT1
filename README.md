@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://media1.tenor.com/m/CgDC_2tMOQUAAAAC/malenia-elden-ring.gif" alt="Malenia, Blade of Miquella - Elden Ring" width="600"/>
 </p>
-
 ---
 
 ### Sobre Mim
@@ -23,7 +22,7 @@
 
 <p align="left"> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,javascript,react,nodejs,html,css,mysql,mongodb,docker,git,aws" />
+    <img src="https://skillicons.dev/icons?i=java,spring,javascript,react,nodejs,html,css,mysql,mongodb,git,aws" />
   </a>
 </p>
 
