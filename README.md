@@ -2,7 +2,7 @@
 <h3 align="center">Um estudante de Análise e Desenvolvimento de Sistemas desbravando os Reinos Intermédios da tecnologia e do universo Java.</h3>
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/CgDC_2tMOQUAAAAC/malenia-elden-ring.gif" alt="Malenia, Blade of Miquella - Elden Ring" width="600"/>
+  <img src="https://i.imgur.com/P1b88eJ.gif" alt="Malenia, Blade of Miquella - Elden Ring" width="600"/>
 </p>
 ---
 
@@ -43,6 +43,6 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/matheus-cardoso-273a96104/" target="blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="meu-linkedin" />
+    <img align="center" src="https://img-shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="meu-linkedin" />
   </a>
 </p>
