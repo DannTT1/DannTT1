@@ -2,7 +2,7 @@
 <h3 align="center">Um estudante de Análise e Desenvolvimento de Sistemas desbravando os Reinos Intermédios da tecnologia e do universo Java.</h3>
 
 
-![malenia2](https://github.com/user-attachments/assets/4404ca01-fda9-4e35-933c-2b56c75409dc)
+
 
 ### Sobre Mim
 
